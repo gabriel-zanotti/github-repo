@@ -1,0 +1,9 @@
+GIT Comandos básicos:
+
+dir - lista todos arquivos do diretório atual
+cd - navega entre as pastas
+cls/ control + l - limpa o terminal
+mkdir - cria uma pasta nova
+del - deleta os arquivos de um diretório
+rmdir - deleta uma pasta
+ls -a - lista arquivos ocultos
