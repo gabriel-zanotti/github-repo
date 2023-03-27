@@ -7,3 +7,10 @@ mkdir - cria uma pasta nova
 del - deleta os arquivos de um diretório
 rmdir - deleta uma pasta
 ls -a - lista arquivos ocultos
+
+git init - iniciar o git no repositório selecionado
+git add . - incluir as alterações para staged para poder commitar
+git commit -m "comentário do commit"
+git config --list - mostra todas as configs do git (apertar Q para sair)
+git config --global --unset (user.name/user.email) - para alterar as informações
+git push origin "branch(main/master)" - subir commit local pra nuvem
